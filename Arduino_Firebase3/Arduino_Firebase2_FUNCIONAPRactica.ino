@@ -32,20 +32,20 @@ DHT dht(DHTPIN, DHTTYPE); // Initialize DHT sensor
 #include <addons/RTDBHelper.h>
 
 /* 1. Define the WiFi credentials */
-#define WIFI_SSID "Diego Phone"
-#define WIFI_PASSWORD "lingruyto"
+#define WIFI_SSID "XXXX"
+#define WIFI_PASSWORD "XXXXXX"
 
 //For the following credentials, see examples/Authentications/SignInAsUser/EmailPassword/EmailPassword.ino
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyCW-hwWZUK6xrrTm7BH420t9gX4eVjG6Xc"
+#define API_KEY "XXXXXXXXXXXXXHXXXXXXXXXXXX"
 
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "https://proyecto-prueb-944a0-default-rtdb.firebaseio.com/" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "XXXXXXXXXXXXXXXXXXXX" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "espuser@mail.com"
-#define USER_PASSWORD "esppassword"
+#define USER_EMAIL "XXXXX"
+#define USER_PASSWORD "XXXXXXXX"
 
 /* Librerias y declaracion de sensor DHT11*/
 
